@@ -5,23 +5,14 @@ This repo is only a guide and show-and-tell of the project. Code can be shown on
 ## Goal
 Develop a full-stack application that assists Waterloo students with course planning for upcoming semesters by preventing and detecting time conflicts, providing a calendar view of their schedule, along with functionality to share schedules with peers/friends. 
 
-## Project Proposal
-
-
 ## Getting Started
-Check out the user guide or view the instructions for running the application.
+Check out the user guide or view the architecture and design document for more in-depth explanation.
 
 ## Detailed User Guide
-
-
-## Instructions for Running and Building
-
+<https://github.com/C689Wang/questFlow-calendarApp/blob/main/docs/userGuide.md>
 
 ## Architecture & Design
-
-
-## Reflections on Practices
-
+<https://github.com/C689Wang/questFlow-calendarApp/blob/main/docs/architecture.md>
 
 ## Sources
 The following links are sources that were used to build the project: <br>
